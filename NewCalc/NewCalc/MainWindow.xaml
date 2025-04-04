@@ -1,0 +1,36 @@
+﻿<Window x:Class="NewCalc.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:NewCalc"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="290" Background="Black">
+    <StackPanel >
+        <TextBox Text="" x:Name="txtresult" Height="50" Width="280" HorizontalAlignment="Left" Background="Black" IsReadOnly="True" FontSize="20" Foreground="White"></TextBox>
+        <StackPanel Orientation="Horizontal"  >
+            <Button  Content="7" x:Name="btn7" Click="Number_Click"  ></Button>
+            <Button  Content="8" x:Name="btn8" Click="Number_Click" ></Button>
+            <Button  Content="9" x:Name="btn9" Click="Number_Click" ></Button>
+            <Button Content="C" x:Name="btnclear" Click="btnclear_Click" Background="#ea3725"  ></Button>
+        </StackPanel>
+        <StackPanel Orientation="Horizontal"  >
+            <Button Content="4" x:Name="btn4" Click="Number_Click" ></Button>
+            <Button Content="5" x:Name="btn5" Click="Number_Click" ></Button>
+            <Button Content="6" x:Name="btn6" Click="Number_Click" ></Button>
+            <Button Content="/" x:Name="btndiv" Click="Oper_Click" Background="#ece216 " ></Button>
+        </StackPanel>
+        <StackPanel Orientation="Horizontal"  >
+            <Button Content="1" x:Name="btn1" Click="Number_Click" ></Button>
+            <Button Content="2" x:Name="btn2" Click="Number_Click" ></Button>
+            <Button Content="3" x:Name="btn3" Click="Number_Click" ></Button>
+            <Button Content="*" x:Name="btnmul" Click="Oper_Click"  Background="#ece216 " ></Button>
+        </StackPanel>
+        <StackPanel Orientation="Horizontal"  >
+            <Button Content="0" x:Name="btn0" Click="Number_Click" ></Button>
+            <Button Content="=" x:Name="btneql" Click="btneql_Click" Background="#1e4d03" ></Button>
+            <Button Content="+" x:Name="btnadd" Click="Oper_Click" Background="#ece216 " ></Button>
+            <Button Content="-" x:Name="btnsub" Click="Oper_Click" Background="#ece216 " ></Button>
+        </StackPanel>
+    </StackPanel>
+</Window>
