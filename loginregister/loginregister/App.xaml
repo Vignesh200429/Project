@@ -1,0 +1,84 @@
+﻿<Application x:Class="loginregister.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:loginregister"
+             StartupUri="MainWindow.xaml">
+    
+    <Application.Resources>
+        <Style TargetType="TextBox" >
+            <Setter Property="Margin" Value="10,0,0,5"></Setter>
+            <Setter Property="FontSize"  Value="20"></Setter>
+            <Setter Property="Height" Value=" 40" ></Setter>
+            <Setter Property="Width" Value="220" ></Setter>
+            <Setter Property="Template" >
+                <Setter.Value >
+                    <ControlTemplate TargetType="TextBox" >
+                        <Border BorderBrush="Gray"  BorderThickness="3" CornerRadius="20" >
+                            <ScrollViewer x:Name="PART_ContentHost" ></ScrollViewer>
+                        </Border>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+
+        <Style TargetType="PasswordBox" >
+            <Setter Property="Margin" Value="10,0,0,5"></Setter>
+            <Setter Property="FontSize"  Value="15"></Setter>
+            <Setter Property="Height" Value=" 40" ></Setter>
+            <Setter Property="Width" Value="220" ></Setter>
+            <Setter Property="Template" >
+                <Setter.Value >
+                <ControlTemplate TargetType="PasswordBox" >
+                    <Border BorderBrush="Gray" BorderThickness="3" CornerRadius="20" >
+                            <ScrollViewer x:Name="PART_ContentHost" ></ScrollViewer>
+                    </Border>
+                        
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+
+        <Style TargetType="TextBlock" >
+            <Setter Property="Margin" Value="20,10,0,0"></Setter>
+            <Setter Property="FontWeight" Value="Bold"></Setter>
+        </Style>
+
+        <Style TargetType="Button" >
+            <Setter Property="Height" Value="50" ></Setter>
+            <Setter Property="Width" Value=" 220" ></Setter>
+            <Setter Property="Padding" Value="5"></Setter>
+            <Setter Property="Margin" Value="10"></Setter>
+            <Setter Property="Template" >
+                <Setter.Value >
+                    <ControlTemplate TargetType="Button" >
+                        <Border CornerRadius="20" BorderBrush="Gray" BorderThickness="2" Background="Violet" >
+                            <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center" ></ContentPresenter>
+                        </Border>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+            <Style.Triggers >
+                <Trigger Property="IsMouseOver" Value="True" >
+                    <Setter Property="Template" >
+                        <Setter.Value >
+                            <ControlTemplate TargetType="Button" >
+                                <Border CornerRadius="20" BorderBrush="Gray" BorderThickness="2" >
+                                    <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center" ></ContentPresenter>
+                                    <Border.Effect >
+                                        <DropShadowEffect BlurRadius="20" Opacity=".3" ShadowDepth="20" ></DropShadowEffect>
+                                    </Border.Effect>
+                                </Border>
+                            </ControlTemplate>
+                        </Setter.Value>
+                    </Setter>
+                </Trigger>
+            </Style.Triggers>
+        </Style>
+
+        
+       <Style TargetType="Border" >
+           <Setter Property="CornerRadius" Value="20"></Setter>
+       </Style>
+        
+    </Application.Resources>
+</Application>

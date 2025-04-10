@@ -1,0 +1,77 @@
+﻿<Window x:Class="loginregister.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:loginregister"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800" Background="BurlyWood" WindowStyle="None" WindowStartupLocation="CenterScreen" ResizeMode="NoResize" >
+    <Border Background="#fff" BorderBrush="Blue" BorderThickness="20" CornerRadius="20"  >
+        <Border.Effect >
+            <DropShadowEffect ShadowDepth="20" BlurRadius="20" Opacity=".3"></DropShadowEffect>
+        </Border.Effect>
+        <Border CornerRadius="20">
+            <TabControl >
+            <TabControl.Resources >
+                <Style TargetType="Border" >
+                    <Setter Property="CornerRadius" Value="20" ></Setter>
+                </Style>
+            </TabControl.Resources>
+                
+            <TabItem Header="REGISTER" FontSize="25">
+                 <Grid >
+                    <Grid.ColumnDefinitions >
+                        <ColumnDefinition Width="auto" ></ColumnDefinition>
+                        <ColumnDefinition Width="auto" ></ColumnDefinition>
+                    </Grid.ColumnDefinitions>
+                    <Grid.RowDefinitions >
+                        <RowDefinition Height="auto" ></RowDefinition>
+                        <RowDefinition Height="auto" ></RowDefinition>
+                        <RowDefinition Height="auto" ></RowDefinition>
+                        <RowDefinition Height="auto"  ></RowDefinition>
+                        <RowDefinition Height="auto" ></RowDefinition>
+                        <RowDefinition Height="auto" ></RowDefinition>
+                    </Grid.RowDefinitions>
+                    
+                        <TextBlock Text="User Name" Grid.Column="0" Grid.Row="0"  ></TextBlock>
+                        <TextBox Grid.Column="1" Grid.Row="0" x:Name="txtusername"></TextBox>
+                        <TextBlock Text="Password" Grid.Column="0" Grid.Row="1" ></TextBlock>
+                        <PasswordBox Grid.Column="1" Grid.Row="1" x:Name="pwpassword"  ></PasswordBox>
+                        <TextBlock Text="Conform Password" Grid.Column="0" Grid.Row="2" ></TextBlock>
+                        <PasswordBox Grid.Column="1" Grid.Row="2" x:Name="pwconformpassword"  ></PasswordBox>
+                        <TextBlock Text="Email" Grid.Column="0" Grid.Row="3" ></TextBlock>
+                        <TextBox Grid.Column="1" Grid.Row="3" x:Name="txtemail"   ></TextBox>
+                        <TextBlock Text="Phone Number" Grid.Column="0" Grid.Row="4"></TextBlock>
+                        <TextBox Grid.Column="1" Grid.Row="4" x:Name="txtphonenumber"  ></TextBox>
+                        <Button Content="REGISTER" Grid.Column="0" Grid.Row="5" Grid.ColumnSpan="2" x:Name="btnreg" Click="btnreg_Click" ></Button>
+                </Grid>
+            </TabItem>
+
+            <TabItem Header="LOGIN" FontSize="25" >
+                <Grid >
+                    <Grid.ColumnDefinitions >
+                        <ColumnDefinition Width="auto" ></ColumnDefinition>
+                        <ColumnDefinition Width="auto" ></ColumnDefinition>
+
+                    </Grid.ColumnDefinitions>
+                    <Grid.RowDefinitions >
+                        <RowDefinition Height="auto" ></RowDefinition>
+                        <RowDefinition Height="auto" ></RowDefinition>
+                        <RowDefinition Height="auto" ></RowDefinition>
+                        <RowDefinition Height="auto"  ></RowDefinition>
+                        <RowDefinition Height="auto" ></RowDefinition>
+                        <RowDefinition Height="auto" ></RowDefinition>
+                    </Grid.RowDefinitions>
+
+                    <TextBlock Text="User Name" Grid.Column="0" Grid.Row="0" ></TextBlock>
+                    <TextBox Grid.Column="1" Grid.Row="0" x:Name="txtloginusername"></TextBox>
+                    <TextBlock Text="Password" Grid.Column="0" Grid.Row="1" ></TextBlock>
+                    <PasswordBox Grid.Column="1" Grid.Row="1" x:Name="pwloginpassword" Height="40" Width="220" ></PasswordBox>
+                    <Button Content="LOGIN" Grid.Column="0" Grid.Row="2" Grid.ColumnSpan="2" x:Name="btnlog" Click="btnlog_Click" ></Button>
+                </Grid>
+            </TabItem>
+                
+        </TabControl>
+       </Border> 
+    </Border>
+</Window>
