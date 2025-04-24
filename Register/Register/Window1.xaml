@@ -1,0 +1,56 @@
+﻿<Window x:Class="Register.Window1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Register"
+        xmlns:res="clr-namespace:Register.Properties"
+        mc:Ignorable="d"
+        Title="Window1" Height="450" Width="700" Background="Chocolate" WindowStyle="None" WindowStartupLocation="CenterScreen" ResizeMode="NoResize">
+    <Border Height="400" Width="650" Background="White" CornerRadius="20">
+        <Border.Effect>
+            <DropShadowEffect ShadowDepth="10" Opacity=".3" BlurRadius="10"></DropShadowEffect> 
+        </Border.Effect>
+
+        <Grid >
+            <Grid.ColumnDefinitions >
+                <ColumnDefinition Width="auto" ></ColumnDefinition>
+                <ColumnDefinition Width="auto" ></ColumnDefinition>
+                
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions >
+                <RowDefinition Height="auto" ></RowDefinition>
+                <RowDefinition Height="auto" ></RowDefinition>
+                <RowDefinition Height="auto" ></RowDefinition>
+                <RowDefinition Height="auto" ></RowDefinition>
+                <RowDefinition Height="auto" ></RowDefinition>
+                <RowDefinition Height="auto" ></RowDefinition>
+                <RowDefinition Height="auto" ></RowDefinition>
+                <RowDefinition Height="auto" ></RowDefinition>
+                <RowDefinition Height="auto" ></RowDefinition>
+                <RowDefinition Height="auto" ></RowDefinition>
+                <RowDefinition Height="auto" ></RowDefinition>
+            </Grid.RowDefinitions>
+
+            <TextBlock Text="{x:Static res:Resources.title}" Grid.Column="0" Grid.Row="0" Grid.ColumnSpan="2" HorizontalAlignment="Center" ></TextBlock>
+            <TextBlock Text="{x:Static res:Resources.name}" Grid.Column="0" Grid.Row="1" ></TextBlock>
+            <TextBox Grid.Column="1" Grid.Row="1" ></TextBox>
+            <TextBlock Text="{x:Static res:Resources.password}" Grid.Column="0" Grid.Row="2" ></TextBlock>
+            <TextBox Grid.Column="1" Grid.Row="2" ></TextBox>
+            <TextBlock Text="{x:Static res:Resources.cpassword}" Grid.Column="0" Grid.Row="3" ></TextBlock>
+            <TextBox Grid.Column="1" Grid.Row="3" ></TextBox>
+            
+            <TextBlock Text="{x:Static res:Resources.phone}" Grid.Column="0" Grid.Row="4" ></TextBlock>
+            <TextBox Grid.Column="1" Grid.Row="4" ></TextBox>
+            <TextBlock Text="{x:Static res:Resources.select}" Grid.Column="0" Grid.Row="5" ></TextBlock>
+
+
+
+            <StackPanel x:Name="stlan" Grid.Column="0" Grid.Row="6" Grid.ColumnSpan="2" >
+                <RadioButton Content="English" Tag="en-IN" Grid.Column="0" Grid.Row="6"  ></RadioButton>
+                <RadioButton Content="Tamil" Tag="ta-IN" Grid.Column="0" Grid.Row="7" ></RadioButton>
+            </StackPanel>
+            <Button Content="Save" x:Name="btnsave" Grid.Column="0" Grid.Row="8" Grid.ColumnSpan="2" Click="btnsave_Click" ></Button>
+        </Grid>
+    </Border>
+</Window>
