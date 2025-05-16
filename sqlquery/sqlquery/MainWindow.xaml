@@ -1,0 +1,16 @@
+﻿<Window x:Class="sqlquery.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:sqlquery"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800" Background="Aquamarine">
+    <StackPanel >
+        <Label Content="Server Name" FontSize="30" FontWeight="Bold"></Label>
+        <TextBox x:Name="txtserver" Height="40" FontSize="20" ></TextBox>
+        <Label Content="Database Name" FontSize="30" FontWeight="Bold" ></Label>
+        <TextBox x:Name="txtdatabase" Height="40" FontSize="20"></TextBox>
+        <Button Content="Connect" Click="btnconnect_Click" x:Name="btnconnect" FontSize="30" FontWeight="Bold" Width="220" Background="Gray"  ></Button>
+    </StackPanel>
+</Window>
