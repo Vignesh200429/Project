@@ -1,0 +1,218 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vigne\\source\\repos\\Jsmvvm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC093AAC-5D98-4D89-BC9D-9B6E663C88E7}|Jsmvvm.ViewModel\\Jsmvvm.ViewModel.csproj|c:\\users\\vigne\\source\\repos\\jsmvvm\\jsmvvm.viewmodel\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC093AAC-5D98-4D89-BC9D-9B6E663C88E7}|Jsmvvm.ViewModel\\Jsmvvm.ViewModel.csproj|solutionrelative:jsmvvm.viewmodel\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC093AAC-5D98-4D89-BC9D-9B6E663C88E7}|Jsmvvm.ViewModel\\Jsmvvm.ViewModel.csproj|c:\\users\\vigne\\source\\repos\\jsmvvm\\jsmvvm.viewmodel\\jsmvvmhelper\\realycommend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC093AAC-5D98-4D89-BC9D-9B6E663C88E7}|Jsmvvm.ViewModel\\Jsmvvm.ViewModel.csproj|solutionrelative:jsmvvm.viewmodel\\jsmvvmhelper\\realycommend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCCC4D79-61FC-4E5C-B17A-1B616C44E8A1}|Jsmvvm.Model\\Jsmvvm.Model.csproj|c:\\users\\vigne\\source\\repos\\jsmvvm\\jsmvvm.model\\helper\\notifyproperty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCCC4D79-61FC-4E5C-B17A-1B616C44E8A1}|Jsmvvm.Model\\Jsmvvm.Model.csproj|solutionrelative:jsmvvm.model\\helper\\notifyproperty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCCC4D79-61FC-4E5C-B17A-1B616C44E8A1}|Jsmvvm.Model\\Jsmvvm.Model.csproj|c:\\users\\vigne\\source\\repos\\jsmvvm\\jsmvvm.model\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCCC4D79-61FC-4E5C-B17A-1B616C44E8A1}|Jsmvvm.Model\\Jsmvvm.Model.csproj|solutionrelative:jsmvvm.model\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D96F649-6C82-4EC9-9037-0B4DC5D20D7D}|Jsmvvm\\Jsmvvm.csproj|c:\\users\\vigne\\source\\repos\\jsmvvm\\jsmvvm\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4D96F649-6C82-4EC9-9037-0B4DC5D20D7D}|Jsmvvm\\Jsmvvm.csproj|solutionrelative:jsmvvm\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D96F649-6C82-4EC9-9037-0B4DC5D20D7D}|Jsmvvm\\Jsmvvm.csproj|c:\\users\\vigne\\source\\repos\\jsmvvm\\jsmvvm\\valueconverter\\yestoboolvalueconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D96F649-6C82-4EC9-9037-0B4DC5D20D7D}|Jsmvvm\\Jsmvvm.csproj|solutionrelative:jsmvvm\\valueconverter\\yestoboolvalueconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D96F649-6C82-4EC9-9037-0B4DC5D20D7D}|Jsmvvm\\Jsmvvm.csproj|c:\\users\\vigne\\source\\repos\\jsmvvm\\jsmvvm\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D96F649-6C82-4EC9-9037-0B4DC5D20D7D}|Jsmvvm\\Jsmvvm.csproj|solutionrelative:jsmvvm\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72E96055-86AE-49D1-975B-3D784130E9A2}|Jsmvvm.DL\\Jsmvvm.DL.csproj|c:\\users\\vigne\\source\\repos\\jsmvvm\\jsmvvm.dl\\userdataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72E96055-86AE-49D1-975B-3D784130E9A2}|Jsmvvm.DL\\Jsmvvm.DL.csproj|solutionrelative:jsmvvm.dl\\userdataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72E96055-86AE-49D1-975B-3D784130E9A2}|Jsmvvm.DL\\Jsmvvm.DL.csproj|c:\\users\\vigne\\source\\repos\\jsmvvm\\jsmvvm.dl\\sqlhelper\\common.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72E96055-86AE-49D1-975B-3D784130E9A2}|Jsmvvm.DL\\Jsmvvm.DL.csproj|solutionrelative:jsmvvm.dl\\sqlhelper\\common.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72E96055-86AE-49D1-975B-3D784130E9A2}|Jsmvvm.DL\\Jsmvvm.DL.csproj|c:\\users\\vigne\\source\\repos\\jsmvvm\\jsmvvm.dl\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72E96055-86AE-49D1-975B-3D784130E9A2}|Jsmvvm.DL\\Jsmvvm.DL.csproj|solutionrelative:jsmvvm.dl\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC093AAC-5D98-4D89-BC9D-9B6E663C88E7}|Jsmvvm.ViewModel\\Jsmvvm.ViewModel.csproj|c:\\users\\vigne\\source\\repos\\jsmvvm\\jsmvvm.viewmodel\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC093AAC-5D98-4D89-BC9D-9B6E663C88E7}|Jsmvvm.ViewModel\\Jsmvvm.ViewModel.csproj|solutionrelative:jsmvvm.viewmodel\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCCC4D79-61FC-4E5C-B17A-1B616C44E8A1}|Jsmvvm.Model\\Jsmvvm.Model.csproj|c:\\users\\vigne\\source\\repos\\jsmvvm\\jsmvvm.model\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCCC4D79-61FC-4E5C-B17A-1B616C44E8A1}|Jsmvvm.Model\\Jsmvvm.Model.csproj|solutionrelative:jsmvvm.model\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserModel.cs",
+              "DocumentMoniker": "C:\\Users\\vigne\\source\\repos\\Jsmvvm\\Jsmvvm.Model\\UserModel.cs",
+              "RelativeDocumentMoniker": "Jsmvvm.Model\\UserModel.cs",
+              "ToolTip": "C:\\Users\\vigne\\source\\repos\\Jsmvvm\\Jsmvvm.Model\\UserModel.cs",
+              "RelativeToolTip": "Jsmvvm.Model\\UserModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T08:29:43.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\vigne\\source\\repos\\Jsmvvm\\Jsmvvm.ViewModel\\UserViewModel.cs",
+              "RelativeDocumentMoniker": "Jsmvvm.ViewModel\\UserViewModel.cs",
+              "ToolTip": "C:\\Users\\vigne\\source\\repos\\Jsmvvm\\Jsmvvm.ViewModel\\UserViewModel.cs",
+              "RelativeToolTip": "Jsmvvm.ViewModel\\UserViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T08:31:35.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NotifyProperty.cs",
+              "DocumentMoniker": "C:\\Users\\vigne\\source\\repos\\Jsmvvm\\Jsmvvm.Model\\Helper\\NotifyProperty.cs",
+              "RelativeDocumentMoniker": "Jsmvvm.Model\\Helper\\NotifyProperty.cs",
+              "ToolTip": "C:\\Users\\vigne\\source\\repos\\Jsmvvm\\Jsmvvm.Model\\Helper\\NotifyProperty.cs",
+              "RelativeToolTip": "Jsmvvm.Model\\Helper\\NotifyProperty.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T13:09:13.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "YestoBoolValueConverter.cs",
+              "DocumentMoniker": "C:\\Users\\vigne\\source\\repos\\Jsmvvm\\Jsmvvm\\ValueConverter\\YestoBoolValueConverter.cs",
+              "RelativeDocumentMoniker": "Jsmvvm\\ValueConverter\\YestoBoolValueConverter.cs",
+              "ToolTip": "C:\\Users\\vigne\\source\\repos\\Jsmvvm\\Jsmvvm\\ValueConverter\\YestoBoolValueConverter.cs",
+              "RelativeToolTip": "Jsmvvm\\ValueConverter\\YestoBoolValueConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T05:38:50.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RealyCommend.cs",
+              "DocumentMoniker": "C:\\Users\\vigne\\source\\repos\\Jsmvvm\\Jsmvvm.ViewModel\\JsmvvmHelper\\RealyCommend.cs",
+              "RelativeDocumentMoniker": "Jsmvvm.ViewModel\\JsmvvmHelper\\RealyCommend.cs",
+              "ToolTip": "C:\\Users\\vigne\\source\\repos\\Jsmvvm\\Jsmvvm.ViewModel\\JsmvvmHelper\\RealyCommend.cs",
+              "RelativeToolTip": "Jsmvvm.ViewModel\\JsmvvmHelper\\RealyCommend.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T09:26:58.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\vigne\\source\\repos\\Jsmvvm\\Jsmvvm\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Jsmvvm\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\vigne\\source\\repos\\Jsmvvm\\Jsmvvm\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Jsmvvm\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAawBUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T16:28:57.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\vigne\\source\\repos\\Jsmvvm\\Jsmvvm\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Jsmvvm\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\vigne\\source\\repos\\Jsmvvm\\Jsmvvm\\MainWindow.xaml",
+              "RelativeToolTip": "Jsmvvm\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-23T16:29:02.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\vigne\\source\\repos\\Jsmvvm\\Jsmvvm.DL\\Class1.cs",
+              "RelativeDocumentMoniker": "Jsmvvm.DL\\Class1.cs",
+              "ToolTip": "C:\\Users\\vigne\\source\\repos\\Jsmvvm\\Jsmvvm.DL\\Class1.cs",
+              "RelativeToolTip": "Jsmvvm.DL\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T13:16:20.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserDataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\vigne\\source\\repos\\Jsmvvm\\Jsmvvm.DL\\UserDataAccess.cs",
+              "RelativeDocumentMoniker": "Jsmvvm.DL\\UserDataAccess.cs",
+              "ToolTip": "C:\\Users\\vigne\\source\\repos\\Jsmvvm\\Jsmvvm.DL\\UserDataAccess.cs",
+              "RelativeToolTip": "Jsmvvm.DL\\UserDataAccess.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T13:17:34.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Common.cs",
+              "DocumentMoniker": "C:\\Users\\vigne\\source\\repos\\Jsmvvm\\Jsmvvm.DL\\SQLHelper\\Common.cs",
+              "RelativeDocumentMoniker": "Jsmvvm.DL\\SQLHelper\\Common.cs",
+              "ToolTip": "C:\\Users\\vigne\\source\\repos\\Jsmvvm\\Jsmvvm.DL\\SQLHelper\\Common.cs",
+              "RelativeToolTip": "Jsmvvm.DL\\SQLHelper\\Common.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAwBsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T13:16:52.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\vigne\\source\\repos\\Jsmvvm\\Jsmvvm.Model\\Class1.cs",
+              "RelativeDocumentMoniker": "Jsmvvm.Model\\Class1.cs",
+              "ToolTip": "C:\\Users\\vigne\\source\\repos\\Jsmvvm\\Jsmvvm.Model\\Class1.cs",
+              "RelativeToolTip": "Jsmvvm.Model\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T08:29:08.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\vigne\\source\\repos\\Jsmvvm\\Jsmvvm.ViewModel\\Class1.cs",
+              "RelativeDocumentMoniker": "Jsmvvm.ViewModel\\Class1.cs",
+              "ToolTip": "C:\\Users\\vigne\\source\\repos\\Jsmvvm\\Jsmvvm.ViewModel\\Class1.cs",
+              "RelativeToolTip": "Jsmvvm.ViewModel\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T08:28:29.295Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

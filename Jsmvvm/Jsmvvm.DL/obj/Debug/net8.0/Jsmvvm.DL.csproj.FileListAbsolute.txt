@@ -1,0 +1,15 @@
+C:\Users\vigne\source\repos\Jsmvvm\Jsmvvm.DL\bin\Debug\net8.0\Jsmvvm.DL.deps.json
+C:\Users\vigne\source\repos\Jsmvvm\Jsmvvm.DL\bin\Debug\net8.0\Jsmvvm.DL.dll
+C:\Users\vigne\source\repos\Jsmvvm\Jsmvvm.DL\bin\Debug\net8.0\Jsmvvm.DL.pdb
+C:\Users\vigne\source\repos\Jsmvvm\Jsmvvm.DL\bin\Debug\net8.0\Jsmvvm.Model.dll
+C:\Users\vigne\source\repos\Jsmvvm\Jsmvvm.DL\bin\Debug\net8.0\Jsmvvm.Model.pdb
+C:\Users\vigne\source\repos\Jsmvvm\Jsmvvm.DL\obj\Debug\net8.0\Jsmvvm.DL.csproj.AssemblyReference.cache
+C:\Users\vigne\source\repos\Jsmvvm\Jsmvvm.DL\obj\Debug\net8.0\Jsmvvm.DL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vigne\source\repos\Jsmvvm\Jsmvvm.DL\obj\Debug\net8.0\Jsmvvm.DL.AssemblyInfoInputs.cache
+C:\Users\vigne\source\repos\Jsmvvm\Jsmvvm.DL\obj\Debug\net8.0\Jsmvvm.DL.AssemblyInfo.cs
+C:\Users\vigne\source\repos\Jsmvvm\Jsmvvm.DL\obj\Debug\net8.0\Jsmvvm.DL.csproj.CoreCompileInputs.cache
+C:\Users\vigne\source\repos\Jsmvvm\Jsmvvm.DL\obj\Debug\net8.0\Jsmvvm.DL.csproj.Up2Date
+C:\Users\vigne\source\repos\Jsmvvm\Jsmvvm.DL\obj\Debug\net8.0\Jsmvvm.DL.dll
+C:\Users\vigne\source\repos\Jsmvvm\Jsmvvm.DL\obj\Debug\net8.0\refint\Jsmvvm.DL.dll
+C:\Users\vigne\source\repos\Jsmvvm\Jsmvvm.DL\obj\Debug\net8.0\Jsmvvm.DL.pdb
+C:\Users\vigne\source\repos\Jsmvvm\Jsmvvm.DL\obj\Debug\net8.0\ref\Jsmvvm.DL.dll
