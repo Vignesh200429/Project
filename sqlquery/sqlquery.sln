@@ -1,9 +1,15 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35527.113 d17.12
+VisualStudioVersion = 17.12.35527.113
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sqlquery", "sqlquery\sqlquery.csproj", "{DFEA43DC-9BEA-4409-B5AD-D36991EC7314}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sqlquery.DL", "sqlquery.DL\sqlquery.DL.csproj", "{4D535199-7AA6-404A-946B-4B22E36EDF98}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sqlquery.BL", "sqlquery.BL\sqlquery.BL.csproj", "{448FB384-C425-4AC7-A929-3F774E072DEF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sqlquery.Model", "sqlquery.Model\sqlquery.Model.csproj", "{BD389CAA-B3F7-4F99-8511-F0FFC59066F0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +21,18 @@ Global
 		{DFEA43DC-9BEA-4409-B5AD-D36991EC7314}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DFEA43DC-9BEA-4409-B5AD-D36991EC7314}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DFEA43DC-9BEA-4409-B5AD-D36991EC7314}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D535199-7AA6-404A-946B-4B22E36EDF98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D535199-7AA6-404A-946B-4B22E36EDF98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D535199-7AA6-404A-946B-4B22E36EDF98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D535199-7AA6-404A-946B-4B22E36EDF98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{448FB384-C425-4AC7-A929-3F774E072DEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{448FB384-C425-4AC7-A929-3F774E072DEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{448FB384-C425-4AC7-A929-3F774E072DEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{448FB384-C425-4AC7-A929-3F774E072DEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD389CAA-B3F7-4F99-8511-F0FFC59066F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD389CAA-B3F7-4F99-8511-F0FFC59066F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD389CAA-B3F7-4F99-8511-F0FFC59066F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD389CAA-B3F7-4F99-8511-F0FFC59066F0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

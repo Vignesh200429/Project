@@ -1,0 +1,5 @@
+C:\Users\vigne\source\repos\sqlquery\sqlquery.BL\obj\Debug\net8.0\sqlquery.BL.csproj.AssemblyReference.cache
+C:\Users\vigne\source\repos\sqlquery\sqlquery.BL\obj\Debug\net8.0\sqlquery.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vigne\source\repos\sqlquery\sqlquery.BL\obj\Debug\net8.0\sqlquery.BL.AssemblyInfoInputs.cache
+C:\Users\vigne\source\repos\sqlquery\sqlquery.BL\obj\Debug\net8.0\sqlquery.BL.AssemblyInfo.cs
+C:\Users\vigne\source\repos\sqlquery\sqlquery.BL\obj\Debug\net8.0\sqlquery.BL.csproj.CoreCompileInputs.cache

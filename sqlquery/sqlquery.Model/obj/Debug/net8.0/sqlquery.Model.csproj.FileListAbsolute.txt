@@ -1,0 +1,11 @@
+C:\Users\vigne\source\repos\sqlquery\sqlquery.Model\bin\Debug\net8.0\sqlquery.Model.deps.json
+C:\Users\vigne\source\repos\sqlquery\sqlquery.Model\bin\Debug\net8.0\sqlquery.Model.dll
+C:\Users\vigne\source\repos\sqlquery\sqlquery.Model\bin\Debug\net8.0\sqlquery.Model.pdb
+C:\Users\vigne\source\repos\sqlquery\sqlquery.Model\obj\Debug\net8.0\sqlquery.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vigne\source\repos\sqlquery\sqlquery.Model\obj\Debug\net8.0\sqlquery.Model.AssemblyInfoInputs.cache
+C:\Users\vigne\source\repos\sqlquery\sqlquery.Model\obj\Debug\net8.0\sqlquery.Model.AssemblyInfo.cs
+C:\Users\vigne\source\repos\sqlquery\sqlquery.Model\obj\Debug\net8.0\sqlquery.Model.csproj.CoreCompileInputs.cache
+C:\Users\vigne\source\repos\sqlquery\sqlquery.Model\obj\Debug\net8.0\sqlquery.Model.dll
+C:\Users\vigne\source\repos\sqlquery\sqlquery.Model\obj\Debug\net8.0\refint\sqlquery.Model.dll
+C:\Users\vigne\source\repos\sqlquery\sqlquery.Model\obj\Debug\net8.0\sqlquery.Model.pdb
+C:\Users\vigne\source\repos\sqlquery\sqlquery.Model\obj\Debug\net8.0\ref\sqlquery.Model.dll

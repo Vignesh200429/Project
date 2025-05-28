@@ -125,7 +125,7 @@ namespace sqlquery {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/sqlquery;component/newbilling.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/sqlquery;V1.0.0.0;component/newbilling.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\NewBilling.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

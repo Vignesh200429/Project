@@ -27,4 +27,8 @@
     </None>
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\sqlquery.BL\sqlquery.BL.csproj" />
+  </ItemGroup>
+
 </Project>

@@ -3,36 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\vigne\\source\\repos\\sqlquery\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DFEA43DC-9BEA-4409-B5AD-D36991EC7314}|sqlquery\\sqlquery.csproj|c:\\users\\vigne\\source\\repos\\sqlquery\\sqlquery\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DFEA43DC-9BEA-4409-B5AD-D36991EC7314}|sqlquery\\sqlquery.csproj|solutionrelative:sqlquery\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DFEA43DC-9BEA-4409-B5AD-D36991EC7314}|sqlquery\\sqlquery.csproj|c:\\users\\vigne\\source\\repos\\sqlquery\\sqlquery\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DFEA43DC-9BEA-4409-B5AD-D36991EC7314}|sqlquery\\sqlquery.csproj|solutionrelative:sqlquery\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DFEA43DC-9BEA-4409-B5AD-D36991EC7314}|sqlquery\\sqlquery.csproj|c:\\users\\vigne\\source\\repos\\sqlquery\\sqlquery\\newbilling.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{DFEA43DC-9BEA-4409-B5AD-D36991EC7314}|sqlquery\\sqlquery.csproj|solutionrelative:sqlquery\\newbilling.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DFEA43DC-9BEA-4409-B5AD-D36991EC7314}|sqlquery\\sqlquery.csproj|c:\\users\\vigne\\source\\repos\\sqlquery\\sqlquery\\newbilling.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DFEA43DC-9BEA-4409-B5AD-D36991EC7314}|sqlquery\\sqlquery.csproj|solutionrelative:sqlquery\\newbilling.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DFEA43DC-9BEA-4409-B5AD-D36991EC7314}|sqlquery\\sqlquery.csproj|c:\\users\\vigne\\source\\repos\\sqlquery\\sqlquery\\home.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DFEA43DC-9BEA-4409-B5AD-D36991EC7314}|sqlquery\\sqlquery.csproj|solutionrelative:sqlquery\\home.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DFEA43DC-9BEA-4409-B5AD-D36991EC7314}|sqlquery\\sqlquery.csproj|c:\\users\\vigne\\source\\repos\\sqlquery\\sqlquery\\home.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{DFEA43DC-9BEA-4409-B5AD-D36991EC7314}|sqlquery\\sqlquery.csproj|solutionrelative:sqlquery\\home.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{DFEA43DC-9BEA-4409-B5AD-D36991EC7314}|sqlquery\\sqlquery.csproj|c:\\users\\vigne\\source\\repos\\sqlquery\\sqlquery\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{DFEA43DC-9BEA-4409-B5AD-D36991EC7314}|sqlquery\\sqlquery.csproj|solutionrelative:sqlquery\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DFEA43DC-9BEA-4409-B5AD-D36991EC7314}|sqlquery\\sqlquery.csproj|C:\\Users\\vigne\\source\\repos\\sqlquery\\sqlquery\\properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}",
-      "RelativeMoniker": "D:0:0:{DFEA43DC-9BEA-4409-B5AD-D36991EC7314}|sqlquery\\sqlquery.csproj|solutionrelative:sqlquery\\properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}"
+      "AbsoluteMoniker": "D:0:0:{DFEA43DC-9BEA-4409-B5AD-D36991EC7314}|sqlquery\\sqlquery.csproj|c:\\users\\vigne\\source\\repos\\sqlquery\\sqlquery\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFEA43DC-9BEA-4409-B5AD-D36991EC7314}|sqlquery\\sqlquery.csproj|solutionrelative:sqlquery\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DFEA43DC-9BEA-4409-B5AD-D36991EC7314}|sqlquery\\sqlquery.csproj|c:\\users\\vigne\\source\\repos\\sqlquery\\sqlquery\\sqlquery.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{DFEA43DC-9BEA-4409-B5AD-D36991EC7314}|sqlquery\\sqlquery.csproj|solutionrelative:sqlquery\\sqlquery.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+      "AbsoluteMoniker": "D:0:0:{BD389CAA-B3F7-4F99-8511-F0FFC59066F0}|sqlquery.Model\\sqlquery.Model.csproj|c:\\users\\vigne\\source\\repos\\sqlquery\\sqlquery.model\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD389CAA-B3F7-4F99-8511-F0FFC59066F0}|sqlquery.Model\\sqlquery.Model.csproj|solutionrelative:sqlquery.model\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D535199-7AA6-404A-946B-4B22E36EDF98}|sqlquery.DL\\sqlquery.DL.csproj|c:\\users\\vigne\\source\\repos\\sqlquery\\sqlquery.dl\\sqldataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D535199-7AA6-404A-946B-4B22E36EDF98}|sqlquery.DL\\sqlquery.DL.csproj|solutionrelative:sqlquery.dl\\sqldataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D535199-7AA6-404A-946B-4B22E36EDF98}|sqlquery.DL\\sqlquery.DL.csproj|c:\\users\\vigne\\source\\repos\\sqlquery\\sqlquery.dl\\sqlquery.dl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4D535199-7AA6-404A-946B-4B22E36EDF98}|sqlquery.DL\\sqlquery.DL.csproj|solutionrelative:sqlquery.dl\\sqlquery.dl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{448FB384-C425-4AC7-A929-3F774E072DEF}|sqlquery.BL\\sqlquery.BL.csproj|c:\\users\\vigne\\source\\repos\\sqlquery\\sqlquery.bl\\billingbusinesslogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{448FB384-C425-4AC7-A929-3F774E072DEF}|sqlquery.BL\\sqlquery.BL.csproj|solutionrelative:sqlquery.bl\\billingbusinesslogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{448FB384-C425-4AC7-A929-3F774E072DEF}|sqlquery.BL\\sqlquery.BL.csproj|c:\\users\\vigne\\source\\repos\\sqlquery\\sqlquery.bl\\loginbusinesslogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{448FB384-C425-4AC7-A929-3F774E072DEF}|sqlquery.BL\\sqlquery.BL.csproj|solutionrelative:sqlquery.bl\\loginbusinesslogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,32 +46,18 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "NewBilling.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\vigne\\source\\repos\\sqlquery\\sqlquery\\NewBilling.xaml.cs",
-              "RelativeDocumentMoniker": "sqlquery\\NewBilling.xaml.cs",
-              "ToolTip": "C:\\Users\\vigne\\source\\repos\\sqlquery\\sqlquery\\NewBilling.xaml.cs",
-              "RelativeToolTip": "sqlquery\\NewBilling.xaml.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAQwCYAAABhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T16:31:39.173Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Login.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\vigne\\source\\repos\\sqlquery\\sqlquery\\Login.xaml.cs",
-              "RelativeDocumentMoniker": "sqlquery\\Login.xaml.cs",
-              "ToolTip": "C:\\Users\\vigne\\source\\repos\\sqlquery\\sqlquery\\Login.xaml.cs",
-              "RelativeToolTip": "sqlquery\\Login.xaml.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAkwCMAAACjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-09T09:47:28.113Z",
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\vigne\\source\\repos\\sqlquery\\sqlquery\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "sqlquery\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\vigne\\source\\repos\\sqlquery\\sqlquery\\MainWindow.xaml",
+              "RelativeToolTip": "sqlquery\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-28T12:42:13.347Z",
               "EditorCaption": ""
             },
             {
@@ -79,64 +69,96 @@
               "ToolTip": "C:\\Users\\vigne\\source\\repos\\sqlquery\\sqlquery\\NewBilling.xaml",
               "RelativeToolTip": "sqlquery\\NewBilling.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-05-14T16:26:54.585Z",
+              "WhenOpened": "2025-05-28T12:42:07.792Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Home.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\vigne\\source\\repos\\sqlquery\\sqlquery\\Home.xaml.cs",
-              "RelativeDocumentMoniker": "sqlquery\\Home.xaml.cs",
-              "ToolTip": "C:\\Users\\vigne\\source\\repos\\sqlquery\\sqlquery\\Home.xaml.cs",
-              "RelativeToolTip": "sqlquery\\Home.xaml.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAgwB0AAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-14T16:24:48.794Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Home.xaml",
-              "DocumentMoniker": "C:\\Users\\vigne\\source\\repos\\sqlquery\\sqlquery\\Home.xaml",
-              "RelativeDocumentMoniker": "sqlquery\\Home.xaml",
-              "ToolTip": "C:\\Users\\vigne\\source\\repos\\sqlquery\\sqlquery\\Home.xaml",
-              "RelativeToolTip": "sqlquery\\Home.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-05-14T15:45:09.863Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "sqlquery",
-              "DocumentMoniker": "C:\\Users\\vigne\\source\\repos\\sqlquery\\sqlquery\\sqlquery.csproj",
-              "RelativeDocumentMoniker": "sqlquery\\sqlquery.csproj",
-              "ToolTip": "C:\\Users\\vigne\\source\\repos\\sqlquery\\sqlquery\\sqlquery.csproj",
-              "RelativeToolTip": "sqlquery\\sqlquery.csproj",
+              "DocumentIndex": 6,
+              "Title": "sqlquery.DL",
+              "DocumentMoniker": "C:\\Users\\vigne\\source\\repos\\sqlquery\\sqlquery.DL\\sqlquery.DL.csproj",
+              "RelativeDocumentMoniker": "sqlquery.DL\\sqlquery.DL.csproj",
+              "ToolTip": "C:\\Users\\vigne\\source\\repos\\sqlquery\\sqlquery.DL\\sqlquery.DL.csproj",
+              "RelativeToolTip": "sqlquery.DL\\sqlquery.DL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-08T07:45:44.671Z"
+              "WhenOpened": "2025-05-28T12:41:41.418Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "Login.xaml",
               "DocumentMoniker": "C:\\Users\\vigne\\source\\repos\\sqlquery\\sqlquery\\Login.xaml",
               "RelativeDocumentMoniker": "sqlquery\\Login.xaml",
               "ToolTip": "C:\\Users\\vigne\\source\\repos\\sqlquery\\sqlquery\\Login.xaml",
               "RelativeToolTip": "sqlquery\\Login.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-05-09T09:37:16.531Z"
+              "WhenOpened": "2025-05-23T11:58:53.945Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Settings.settings",
-              "DocumentMoniker": "C:\\Users\\vigne\\source\\repos\\sqlquery\\sqlquery\\Properties\\Settings.settings",
-              "RelativeDocumentMoniker": "sqlquery\\Properties\\Settings.settings",
-              "ToolTip": "C:\\Users\\vigne\\source\\repos\\sqlquery\\sqlquery\\Properties\\Settings.settings",
-              "RelativeToolTip": "sqlquery\\Properties\\Settings.settings",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002767|",
-              "WhenOpened": "2025-05-08T07:45:52.101Z"
+              "DocumentIndex": 3,
+              "Title": "Login.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\vigne\\source\\repos\\sqlquery\\sqlquery\\Login.xaml.cs",
+              "RelativeDocumentMoniker": "sqlquery\\Login.xaml.cs",
+              "ToolTip": "C:\\Users\\vigne\\source\\repos\\sqlquery\\sqlquery\\Login.xaml.cs",
+              "RelativeToolTip": "sqlquery\\Login.xaml.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T11:58:46.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SqlDataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\vigne\\source\\repos\\sqlquery\\sqlquery.DL\\SqlDataAccess.cs",
+              "RelativeDocumentMoniker": "sqlquery.DL\\SqlDataAccess.cs",
+              "ToolTip": "C:\\Users\\vigne\\source\\repos\\sqlquery\\sqlquery.DL\\SqlDataAccess.cs",
+              "RelativeToolTip": "sqlquery.DL\\SqlDataAccess.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T11:58:32.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Users.cs",
+              "DocumentMoniker": "C:\\Users\\vigne\\source\\repos\\sqlquery\\sqlquery.Model\\Users.cs",
+              "RelativeDocumentMoniker": "sqlquery.Model\\Users.cs",
+              "ToolTip": "C:\\Users\\vigne\\source\\repos\\sqlquery\\sqlquery.Model\\Users.cs",
+              "RelativeToolTip": "sqlquery.Model\\Users.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T11:58:27.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginBusinessLogic.cs",
+              "DocumentMoniker": "C:\\Users\\vigne\\source\\repos\\sqlquery\\sqlquery.BL\\LoginBusinessLogic.cs",
+              "RelativeDocumentMoniker": "sqlquery.BL\\LoginBusinessLogic.cs",
+              "ToolTip": "C:\\Users\\vigne\\source\\repos\\sqlquery\\sqlquery.BL\\LoginBusinessLogic.cs",
+              "RelativeToolTip": "sqlquery.BL\\LoginBusinessLogic.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwAgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T11:09:02.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BillingBusinessLogic.cs",
+              "DocumentMoniker": "C:\\Users\\vigne\\source\\repos\\sqlquery\\sqlquery.BL\\BillingBusinessLogic.cs",
+              "RelativeDocumentMoniker": "sqlquery.BL\\BillingBusinessLogic.cs",
+              "ToolTip": "C:\\Users\\vigne\\source\\repos\\sqlquery\\sqlquery.BL\\BillingBusinessLogic.cs",
+              "RelativeToolTip": "sqlquery.BL\\BillingBusinessLogic.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T11:08:32.048Z"
             }
           ]
         }

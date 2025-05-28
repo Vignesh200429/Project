@@ -642,6 +642,43 @@
         "runtime": {
           "lib/netcoreapp2.1/_._": {}
         }
+      },
+      "sqlquery.BL/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "sqlquery.DL": "1.0.0",
+          "sqlquery.Model": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/sqlquery.BL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/sqlquery.BL.dll": {}
+        }
+      },
+      "sqlquery.DL/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Microsoft.Data.SqlClient": "6.0.2"
+        },
+        "compile": {
+          "bin/placeholder/sqlquery.DL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/sqlquery.DL.dll": {}
+        }
+      },
+      "sqlquery.Model/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/sqlquery.Model.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/sqlquery.Model.dll": {}
+        }
       }
     }
   },
@@ -1658,11 +1695,27 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
+    },
+    "sqlquery.BL/1.0.0": {
+      "type": "project",
+      "path": "../sqlquery.BL/sqlquery.BL.csproj",
+      "msbuildProject": "../sqlquery.BL/sqlquery.BL.csproj"
+    },
+    "sqlquery.DL/1.0.0": {
+      "type": "project",
+      "path": "../sqlquery.DL/sqlquery.DL.csproj",
+      "msbuildProject": "../sqlquery.DL/sqlquery.DL.csproj"
+    },
+    "sqlquery.Model/1.0.0": {
+      "type": "project",
+      "path": "../sqlquery.Model/sqlquery.Model.csproj",
+      "msbuildProject": "../sqlquery.Model/sqlquery.Model.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0-windows7.0": [
-      "Microsoft.Data.SqlClient >= 6.0.2"
+      "Microsoft.Data.SqlClient >= 6.0.2",
+      "sqlquery.BL >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -1697,7 +1750,11 @@
       "frameworks": {
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\vigne\\source\\repos\\sqlquery\\sqlquery.BL\\sqlquery.BL.csproj": {
+              "projectPath": "C:\\Users\\vigne\\source\\repos\\sqlquery\\sqlquery.BL\\sqlquery.BL.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
@@ -1743,5 +1800,13 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Error occurred while getting package vulnerability data: Unable to load the service index for source https://api.nuget.org/v3/index.json."
+    }
+  ]
 }
